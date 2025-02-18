@@ -1,0 +1,13 @@
+# Virtual Environment Setup
+python -m venv .venv
+.venv\Scripts\activate
+python -m pip install --upgrade pip
+python -m pip install -r tbfa_requirements.txt | python -m pip install -r tbfa_v_requirements.txt
+
+# Version State
+pip freeze > tbfa_v_requirements.txt
+
+
+
+
+
