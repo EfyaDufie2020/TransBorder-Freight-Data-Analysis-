@@ -77,5 +77,6 @@ I would like to thank the Azubi Technical Team providing the data used in this a
 
 For any questions or inquiries, please contact:
 
-Name: [Mercy Dufie Boateng ]
-Email: [mercydboateng@ymail.com]
+Name: Mercy Dufie Boateng 
+
+Email: mercydboateng@ymail.com
